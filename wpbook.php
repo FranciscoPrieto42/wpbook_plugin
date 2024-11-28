@@ -12,5 +12,4 @@
  * Update URI:        https://presupon.com/wpbook/
  * Text Domain:       wpbook
  * Domain Path:       /languages
- * Requires Plugins:  none
  */
