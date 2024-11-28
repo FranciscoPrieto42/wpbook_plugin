@@ -1,2 +1,3 @@
 # wpbook_plugin
-Wordpress Plugin to manage a book list
+Wordpress plugin to manage a book list.
+
